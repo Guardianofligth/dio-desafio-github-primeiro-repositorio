@@ -1,6 +1,6 @@
 # SEJAM BEM VINDOS!
 
-_Essas foram as minhas anotações no decorrer do curso, espero de alguma forma ajudar aqueles que com eu começaram nesse novo universo da tecnologia da informação. Onde tudo parece ser impossível, mas quando olhamos de perto se torna simples!rsrsrs..._
+_Essas foram as minhas anotações no decorrer do curso, espero de alguma forma ajudar aqueles que como eu, começaram nesse novo universo da tecnologia da informação. Onde tudo parece ser impossível, mas quando olhamos de perto se torna simples!rsrsrs..._
 
 ### **Comandos básicos para cmd**.
 
